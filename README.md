@@ -70,7 +70,7 @@ This agent was engineered for performance and reliability, achieving significant
 
 ## 4. Architecture Diagram
 
-![Architecture](./assets/Rag_Architecture.jpg)
+![Architecture](./MultiDoc-Adaptive-Rag-main/assets/Rag_Architecture.jpg)
 
 
 ## 5. Features
